@@ -10,7 +10,7 @@ package caijava;
  */
 public class CaiJava {
 
-    /**
+    /**aaa
      * @param args the command line arguments
      */
     public static void main(String[] args) {
